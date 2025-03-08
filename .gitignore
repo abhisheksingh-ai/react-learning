@@ -1,0 +1,6 @@
+# large file we can recover it by npm install if we have package.json
+/node_modules 
+
+# we have .parcel-cache and dist in our server 
+.parcel-cache
+dist

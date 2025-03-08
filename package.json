@@ -2,8 +2,7 @@
   "name": "namastey-react",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "scripts": {
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +14,16 @@
   "bugs": {
     "url": "https://github.com/abhisheksingh-ai/react-learning/issues"
   },
-  "homepage": "https://github.com/abhisheksingh-ai/react-learning#readme"
+  "homepage": "https://github.com/abhisheksingh-ai/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist" : [
+    "last 2 versons"
+  ]
 }
